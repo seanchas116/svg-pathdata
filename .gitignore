@@ -43,6 +43,6 @@ jspm_packages
 out
 
 # generated .d.ts files
-lib/*.d.ts
-lib/*.cjs.map
-lib/*.js.map
+# lib/*.d.ts
+# lib/*.cjs.map
+# lib/*.js.map
