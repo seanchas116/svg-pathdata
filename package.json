@@ -22,8 +22,7 @@
     "version": "npm run changelog && git add CHANGELOG.md",
     "test:ci": "npm run lint && npm run build && npm run test",
     "build": "rollup -c rollup.config.js",
-    "watch": "rollup -c rollup.config.js -w",
-    "prepare": "npm run build"
+    "watch": "rollup -c rollup.config.js -w"
   },
   "repository": {
     "type": "git",
